@@ -1,4 +1,4 @@
-# Welcome to the Holiday Lights Engineering Workshop
+# Holiday Lights Engineering Workshop
 We are excited to have you participate in this workshop, sponsored by AAUW and delivered by SLU! This page contains the workshop agenda along with links to download some code examples.
 
 ### Day 1
@@ -6,6 +6,10 @@ We are excited to have you participate in this workshop, sponsored by AAUW and d
 1. Workshop instructor introductions
 2. Get your supplies and begin assembying your Raspberry Pi - pocket size computer
 3. Learn about your first Raspberry Pi project - blinking an LED
+  - Circuit
+  - LED polarity
+  - Resistors
+  - Power and ground
 4. Build the blinking LED project: 
   - <a href="scratch/blinkingLED.sb3 download">Download Scratch Code</a>
   - (TODO: add an image showing the block code)
@@ -42,3 +46,5 @@ We are excited to have you participate in this workshop, sponsored by AAUW and d
   - Turn on all lights green
   - Alternate between red and green
 8. Create your own light display using the skills you learned
+9. Complete the end of workshop survey: TODO add a link
+10. Disassemble your workstations and pack
