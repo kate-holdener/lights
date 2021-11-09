@@ -1,38 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to the Holiday Lights Engineering Workshop
+We are excited to have you participate in this workshop, sponsored by AAUW and delivered by SLU! This page contains the workshop agenda along with links to download some code examples.
 
-You can use the [editor on GitHub](https://github.com/kate-holdener/lights/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Day 1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Workshop instructor introductions
+2. Get your supplies and begin assembying your Raspberry Pi - pocket size computer
+3. Learn about your first Raspberry Pi project - blinking an LED
+4. Build the blinking LED project: 
+  - <a href="scratch/blinkingLED.sb3 download">Download Scratch Code</a>
+  - (TODO: add an image showing the block code)
+5. Build 2nd project: controlling an LED with a button
+6. Discussion:
+  - What skills did we use
+  - What did you enjoy the most 
+  - What was the most difficult part? Why was it difficult?
+7. Demo of 2nd day project
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-```
+### Day 2
 
 <a href='python/rainbowLights.py' download> Rainbow Lights</a>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kate-holdener/lights/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
