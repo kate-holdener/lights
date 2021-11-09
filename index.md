@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[python/rainbowLights.py](python/rainbowLights.py) and ![Image](src)
+<a href='python/rainbowLights.py' download> Rainbow Lights</a> 
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
