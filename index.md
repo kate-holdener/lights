@@ -34,7 +34,7 @@ We are excited to have you participate in this workshop, sponsored by AAUW and d
 4. Turn on the lights and make configuration chagnes
   - TODO: add a link to the pdf with instructions
 5. Download and run demo programs:
-  - <a href='python/rainbowLights.py' download>Rainbow Lights</a>
+  - <a href='python/rainbowLights.py' download>Download Rainbow Lights</a> <a href='python/rainbowLights.py'>View Rainbow Lights</a>
   - <a href='python/randomLights.py' download>Random Lights</a>
 6. Explain simple code examples (TODO: add links to code)
   - Turn on one light
