@@ -48,7 +48,9 @@ We are excited to have you participate in this workshop, sponsored by AAUW and d
 8. Create your own light display using the skills you learned
 9. Complete the end of workshop survey: TODO add a link
 10. Disassemble your workstations and pack
-11. Other cool Raspberry Pi projects:
+
+## Additional Resources
+Here are links to some other cool Raspberry Pi projects. Perhaps this is something you can try at home.
   - Raspberry Pi Video Door Bell
     - <a href='https://www.youtube.com/watch?v=tG_VPWNS8Sw&t=36s'>Video</a>
     - <a href='https://www.hackster.io/sneaky/fast-video-doorbell-intercom-on-raspberry-pi-63b063'>Instructions</a>
