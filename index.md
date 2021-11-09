@@ -34,7 +34,7 @@ We are excited to have you participate in this workshop, sponsored by AAUW and d
 4. Turn on the lights and make configuration chagnes
   - TODO: add a link to the pdf with instructions
 5. Download and run demo programs:
-  - <a href='python/rainbowLights.py' download>Download Rainbow Lights</a> <a href='python/rainbowLights.py'>View Rainbow Lights</a>
+  - <a href='python/rainbowLights.py' download>Download Rainbow Lights</a>
   - <a href='python/randomLights.py' download>Random Lights</a>
 6. Explain simple code examples (TODO: add links to code)
   - Turn on one light
@@ -48,3 +48,9 @@ We are excited to have you participate in this workshop, sponsored by AAUW and d
 8. Create your own light display using the skills you learned
 9. Complete the end of workshop survey: TODO add a link
 10. Disassemble your workstations and pack
+11. Other cool Raspberry Pi projects:
+  - Raspberry Pi Video Door Bell
+    - <a href='https://www.youtube.com/watch?v=tG_VPWNS8Sw&t=36s'>Video</a>
+    - <a href='https://www.hackster.io/sneaky/fast-video-doorbell-intercom-on-raspberry-pi-63b063'>Instructions</a>
+  - <a href='https://www.hackster.io/tomasz-lewicki/ai-thermometer-2bacb4#toc-7--resources-8'>AI Thermomether</a>
+  - <a href='https://www.hackster.io/dominick-marino/possessed-portrait-updated-32a7a6'>Posessed Portrait</a>
