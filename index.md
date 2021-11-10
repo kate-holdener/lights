@@ -46,7 +46,7 @@ We are excited to have you participate in this workshop, sponsored by AAUW and d
   - Turn on all lights green
   - Alternate between red and green
 8. Create your own light display using the skills you learned
-9. Complete the end of workshop survey: TODO add a link
+9. Complete the <a href="https://forms.gle/DwZqcU1aj78qzQxL6">end of workshop survey</a>
 10. Disassemble your workstations and pack
 
 ## Additional Resources
