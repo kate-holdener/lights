@@ -38,7 +38,7 @@ We are excited to have you participate in this workshop, sponsored by AAUW and d
   - <a href='python/randomLights.py' download>Random Lights</a>
 6. Explain simple code examples (TODO: add links to code)
   - Turn on one light
-  - Use different colors
+  - Use different colors. <a href="https://www.rapidtables.com/web/color/RGB_Color.html">RGB Color Picker</a>
   - Turn on several lights at once
   - Blink a light
 7. Try to do these:
