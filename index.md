@@ -1,5 +1,5 @@
 # Holiday Lights Engineering Workshop
-We are excited to have you participate in this workshop, sponsored by AAUW and delivered by SLU! This page contains the workshop agenda along with links to download some code examples.
+We are excited to have you participate in this workshop, sponsored by <a href='https://ww3.aauw.org/aauw_check/fellowships_directory/#rid6441'>American Association of University Women</a> and delivered by <a href='https://www.slu.edu/'>Saint Louis University</a>! This page contains the workshop agenda along with links to download some code examples.
 
 ### Day 1
 
