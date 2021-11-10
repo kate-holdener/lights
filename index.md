@@ -29,10 +29,10 @@ We are excited to have you participate in this workshop, sponsored by AAUW and d
   - Turn on several lights at once
   - Blink a light
 3. Assemble the lights, connecting them to your Raspberry Pi
-  - TODO: add a link to the pdf with instructions
+  - <a href="HolidayLightsAssembly.pdf">Assembly Instructions</a>
   - TODO: print out instructions
 4. Turn on the lights and make configuration chagnes
-  - TODO: add a link to the pdf with instructions
+  - <a href="HolidayLightsConfiguration.pdf">Configuration Instructions</a>
 5. Download and run demo programs:
   - <a href='python/rainbowLights.py' download>Download Rainbow Lights</a>
   - <a href='python/randomLights.py' download>Random Lights</a>
