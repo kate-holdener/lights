@@ -3,7 +3,7 @@ We are excited to have you participate in this workshop, sponsored by AAUW and d
 
 ### Day 1
 
-1. Workshop instructor introductions
+1. Workshop instructors introductions
 2. Get your supplies and begin assembying your Raspberry Pi - pocket size computer
 3. Learn about your first Raspberry Pi project - blinking an LED
   - Circuit
@@ -13,12 +13,12 @@ We are excited to have you participate in this workshop, sponsored by AAUW and d
 4. Build the blinking LED project: 
   - <a href="scratch/blinkingLED.sb3 download">Download Scratch Code</a>
   - (TODO: add an image showing the block code)
-5. Build 2nd project: controlling an LED with a button
+5. Build your 2nd project: controlling an LED with a button
 6. Discussion:
   - What skills did we use
   - What did you enjoy the most 
   - What was the most difficult part? Why was it difficult?
-7. Demo of 2nd day project
+7. Demo of the 2nd day completed project
 
 ### Day 2
 
@@ -29,10 +29,10 @@ We are excited to have you participate in this workshop, sponsored by AAUW and d
   - Turn on several lights at once
   - Blink a light
 3. Assemble the lights, connecting them to your Raspberry Pi
-  - <a href="HolidayLightsAssembly.pdf">Assembly Instructions</a>
+  - <a href="https://drive.google.com/file/d/1ovEwY0axvya6oyfshwoi6XtHjDIgWKuZ/view?usp=sharing">Assembly Instructions</a>
   - TODO: print out instructions
 4. Turn on the lights and make configuration chagnes
-  - <a href="HolidayLightsConfiguration.pdf">Configuration Instructions</a>
+  - <a href="https://drive.google.com/file/d/1wJrOotk2LGd6SBqmLCVecB4jKPKN6_3v/view?usp=sharing">Configuration Instructions</a>
 5. Download and run demo programs:
   - <a href='python/rainbowLights.py' download>Download Rainbow Lights</a>
   - <a href='python/randomLights.py' download>Random Lights</a>
