@@ -42,6 +42,7 @@ We are excited to have you participate in this workshop, sponsored by <a href='h
   - TODO: print out instructions
 5. Download and run demo programs:
   - <a href='python/rainbowLights.py' download>Download Rainbow Lights Code</a>
+  - <a href='python/rainbowLights.py?plain=1'>View Rainbow Lights Code</a>
   - <a href='python/randomLights.py' download>Download Random Lights Code</a>
 6. Explain simple code examples (TODO: add links to code)
   - Turn on one light
