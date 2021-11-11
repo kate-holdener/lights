@@ -43,22 +43,22 @@ We are excited to have you participate in this workshop, sponsored by <a href='h
 5. Download and run demo programs:
   - Rainbow Lights:
        - <a href='python/rainbowLights.py' download>Download</a>
-       - <a href='https://github.com/kate-holdener/lights/blob/a7df7a0f10278c6463d92c18569bfcdb75b824ee/python/rainbowLights.py'>View</a>
+       - <a href='https://github.com/kate-holdener/lights/blob/a7df7a0f10278c6463d92c18569bfcdb75b824ee/python/rainbowLights.py' target="_blank" rel="noopener noreferrer">View</a>
   - Random Lights:
        - <a href='python/randomLights.py' download>Download</a>
        - TODO: add comments to random lights code and add a link to view the code
 6. Explain simple code examples (TODO: add links to code)
   - Turn on one light
-       - <a href='https://github.com/kate-holdener/lights/blob/5a485edb7f33e692c3d9da01c40028e247acfff0/python/oneLight.py'>View Code</a>
+       - <a href='https://github.com/kate-holdener/lights/blob/5a485edb7f33e692c3d9da01c40028e247acfff0/python/oneLight.py' target="_blank" rel="noopener noreferrer">View Code</a>
        - <a href='python/oneLight.py' download>Download Code</a>
-  - Use different colors. <a href="https://www.rapidtables.com/web/color/RGB_Color.html">RGB Color Picker</a>
-       - <a href='https://github.com/kate-holdener/lights/blob/5a485edb7f33e692c3d9da01c40028e247acfff0/python/differentColors.py'>View Code</a>
+  - Use different colors. <a href="https://www.rapidtables.com/web/color/RGB_Color.html" target="_blank" rel="noopener noreferrer">RGB Color Picker</a>
+       - <a href='https://github.com/kate-holdener/lights/blob/5a485edb7f33e692c3d9da01c40028e247acfff0/python/differentColors.py' target="_blank" rel="noopener noreferrer">View Code</a>
        - <a href='python/differentColors.py' download>Download Code</a>
   - Turn on several lights at once
-       - <a href='https://github.com/kate-holdener/lights/blob/5a485edb7f33e692c3d9da01c40028e247acfff0/python/manyLights.py'>View Code</a>
+       - <a href='https://github.com/kate-holdener/lights/blob/5a485edb7f33e692c3d9da01c40028e247acfff0/python/manyLights.py' target="_blank" rel="noopener noreferrer">View Code</a>
        - <a href='python/manyLights.py' download>Download Code</a>
   - Blink a light
-       - <a href='https://github.com/kate-holdener/lights/blob/5a485edb7f33e692c3d9da01c40028e247acfff0/python/blinkingLight.py'>View Code</a>
+       - <a href='https://github.com/kate-holdener/lights/blob/5a485edb7f33e692c3d9da01c40028e247acfff0/python/blinkingLight.py' target="_blank" rel="noopener noreferrer">View Code</a>
        - <a href='python/blinkingLight.py' download>Download Code</a>
 7. Try to do these:
   - Turn on all lights red
