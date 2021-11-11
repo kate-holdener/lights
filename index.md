@@ -49,9 +49,17 @@ We are excited to have you participate in this workshop, sponsored by <a href='h
        - TODO: add comments to random lights code and add a link to view the code
 6. Explain simple code examples (TODO: add links to code)
   - Turn on one light
+       - <a href='https://github.com/kate-holdener/lights/blob/5a485edb7f33e692c3d9da01c40028e247acfff0/python/oneLight.py'>View Code</a>
+       - <a href='python/oneLight.py' download>Download Code</a>
   - Use different colors. <a href="https://www.rapidtables.com/web/color/RGB_Color.html">RGB Color Picker</a>
+       - <a href='https://github.com/kate-holdener/lights/blob/5a485edb7f33e692c3d9da01c40028e247acfff0/python/differentColors.py'>View Code</a>
+       - <a href='python/differentColors.py' download>Download Code</a>
   - Turn on several lights at once
+       - <a href='https://github.com/kate-holdener/lights/blob/5a485edb7f33e692c3d9da01c40028e247acfff0/python/manyLights.py'>View Code</a>
+       - <a href='python/manyLights.py' download>Download Code</a>
   - Blink a light
+       - <a href='https://github.com/kate-holdener/lights/blob/5a485edb7f33e692c3d9da01c40028e247acfff0/python/blinkingLight.py'>View Code</a>
+       - <a href='python/blinkingLight.py' download>Download Code</a>
 7. Try to do these:
   - Turn on all lights red
   - Turn on all lights green
