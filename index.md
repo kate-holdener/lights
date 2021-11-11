@@ -14,7 +14,7 @@ We are excited to have you participate in this workshop, sponsored by <a href='h
   - Blinking an LED with Raspberry Pi (from the Quick-Start Guide)
 4. Build the blinking LED project: 
   - <a href="scratch/blinkingLED.sb3" download>Download Scratch Code</a>
-  - (TODO: add an image showing the block code)
+  - <a href="screenShots/blinkingLED.png">View Scratch Code</a>
 5. Build your 2nd project: controlling an LED with a button (use the Quick-Start Guide)
   - TODO: add code to download
   - TODO: add an image showing block code
