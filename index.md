@@ -5,15 +5,19 @@ We are excited to have you participate in this workshop, sponsored by <a href='h
 
 1. Workshop instructors introductions
 2. Get your supplies and begin assembying your Raspberry Pi - pocket size computer
-3. Learn about your first Raspberry Pi project - blinking an LED
-  - Circuit
-  - LED polarity
-  - Resistors
-  - Power and ground
+3. Learn about your first Raspberry Pi project
+  - <a href='https://www.makerspaces.com/basic-electronics/'>Basic Electronics</a>
+    - Circuit
+    - LED polarity
+    - Resistors
+    - Power and ground
+  - Blinking an LED with Raspberry Pi (from the Quick-Start Guide)
 4. Build the blinking LED project: 
   - <a href="scratch/blinkingLED.sb3 download">Download Scratch Code</a>
   - (TODO: add an image showing the block code)
-5. Build your 2nd project: controlling an LED with a button
+5. Build your 2nd project: controlling an LED with a button (use the Quick-Start Guide)
+  - TODO: add code to download
+  - TODO: add an image showing block code
 6. Discussion:
   - What skills did we use
   - What did you enjoy the most 
@@ -34,8 +38,8 @@ We are excited to have you participate in this workshop, sponsored by <a href='h
 4. Turn on the lights and make configuration chagnes
   - <a href="https://drive.google.com/file/d/1wJrOotk2LGd6SBqmLCVecB4jKPKN6_3v/view?usp=sharing">Configuration Instructions</a>
 5. Download and run demo programs:
-  - <a href='python/rainbowLights.py' download>Download Rainbow Lights</a>
-  - <a href='python/randomLights.py' download>Random Lights</a>
+  - <a href='python/rainbowLights.py' download>Download Rainbow Lights Code</a>
+  - <a href='python/randomLights.py' download>Download Random Lights Code</a>
 6. Explain simple code examples (TODO: add links to code)
   - Turn on one light
   - Use different colors. <a href="https://www.rapidtables.com/web/color/RGB_Color.html">RGB Color Picker</a>
