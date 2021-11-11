@@ -7,10 +7,10 @@ We are excited to have you participate in this workshop, sponsored by <a href='h
 2. Get your supplies and begin assembying your Raspberry Pi - pocket size computer
 3. Learn about your first Raspberry Pi project
   - <a href='https://www.makerspaces.com/basic-electronics/'>Basic Electronics</a>
-    - Circuit
-    - LED polarity
-    - Resistors
-    - Power and ground
+       - Circuit
+       - LED polarity
+       - Resistors
+       - Power and ground
   - Blinking an LED with Raspberry Pi (from the Quick-Start Guide)
 4. Build the blinking LED project: 
   - <a href="scratch/blinkingLED.sb3 download">Download Scratch Code</a>
