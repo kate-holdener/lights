@@ -39,6 +39,7 @@ We are excited to have you participate in this workshop, sponsored by <a href='h
   - TODO: print out instructions
 4. Turn on the lights and make configuration chagnes
   - <a href="https://drive.google.com/file/d/1wJrOotk2LGd6SBqmLCVecB4jKPKN6_3v/view?usp=sharing">Configuration Instructions</a>
+  - TODO: print out instructions
 5. Download and run demo programs:
   - <a href='python/rainbowLights.py' download>Download Rainbow Lights Code</a>
   - <a href='python/randomLights.py' download>Download Random Lights Code</a>
