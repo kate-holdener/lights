@@ -42,11 +42,11 @@ We are excited to have you participate in this workshop, sponsored by <a href='h
   - TODO: print out instructions
 5. Download and run demo programs:
   - Rainbow Lights:
-    - <a href='python/rainbowLights.py' download>Download</a>
-    - <a href='https://github.com/kate-holdener/lights/blob/a7df7a0f10278c6463d92c18569bfcdb75b824ee/python/rainbowLights.py'>View</a>
+      - <a href='python/rainbowLights.py' download>Download</a>
+      - <a href='https://github.com/kate-holdener/lights/blob/a7df7a0f10278c6463d92c18569bfcdb75b824ee/python/rainbowLights.py'>View</a>
   - Random Lights:
-    - <a href='python/randomLights.py' download>Download</a>
-    - TODO: add comments to random lights code and add a link to view the code
+      - <a href='python/randomLights.py' download>Download</a>
+      - TODO: add comments to random lights code and add a link to view the code
 6. Explain simple code examples (TODO: add links to code)
   - Turn on one light
   - Use different colors. <a href="https://www.rapidtables.com/web/color/RGB_Color.html">RGB Color Picker</a>
