@@ -18,7 +18,7 @@ We are excited to have you participate in this workshop, sponsored by <a href='h
   - <a href="screenShots/blinkingLED.png">View Scratch Environment</a>
   - <a href="scratch/blinkingLED.sb3" download>Download Scratch Code</a>
 5. Build your 2nd project: controlling an LED with a button (use the Quick-Start Guide)
-  - TODO: add an image showing block code
+  - <a href="scratch/buttonLED.png">View Scratch Code</a>
   - <a href="scratch/buttonLED.sb3" download>Download Scratch Code</a>
 6. Discussion:
   - What skills did we use
@@ -35,11 +35,9 @@ We are excited to have you participate in this workshop, sponsored by <a href='h
   - Turn on several lights at once
   - Blink a light
 3. Assemble the lights, connecting them to your Raspberry Pi
-  - <a href="https://drive.google.com/file/d/1ovEwY0axvya6oyfshwoi6XtHjDIgWKuZ/view?usp=sharing">Assembly Instructions</a>
-  - TODO: print out instructions
+  - <a href="https://drive.google.com/file/d/1PCCHJ61IAkTXFsFqDYYFz1PIAZ4Qic5v/view?usp=sharing">Assembly Instructions</a>
 4. Turn on the lights and make configuration chagnes
-  - <a href="https://drive.google.com/file/d/1wJrOotk2LGd6SBqmLCVecB4jKPKN6_3v/view?usp=sharing">Configuration Instructions</a>
-  - TODO: print out instructions
+  - <a href="https://drive.google.com/file/d/1QCKSB7eMxPsMDTXLa3rw6IO1AajZPaeQ/view?usp=sharing">Configuration Instructions</a>
 5. Download and run demo programs:
   - Rainbow Lights:
        - <a href='python/rainbowLights.py' download>Download</a>
