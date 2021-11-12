@@ -18,7 +18,7 @@ We are excited to have you participate in this workshop, sponsored by <a href='h
   - <a href="screenShots/blinkingLED.png">View Scratch Environment</a>
   - <a href="scratch/blinkingLED.sb3" download>Download Scratch Code</a>
 5. Build your 2nd project: controlling an LED with a button (use the Quick-Start Guide)
-  - <a href="scratch/buttonLED.png">View Scratch Code</a>
+  - <a href="screenShots/buttonLED.png">View Scratch Code</a>
   - <a href="scratch/buttonLED.sb3" download>Download Scratch Code</a>
 6. Discussion:
   - What skills did we use
