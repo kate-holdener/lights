@@ -73,3 +73,15 @@ Here are links to some other cool Raspberry Pi projects. Perhaps this is somethi
     - <a href='https://www.hackster.io/sneaky/fast-video-doorbell-intercom-on-raspberry-pi-63b063'>Instructions</a>
   - <a href='https://www.hackster.io/tomasz-lewicki/ai-thermometer-2bacb4#toc-7--resources-8'>AI Thermomether</a>
   - <a href='https://www.hackster.io/dominick-marino/possessed-portrait-updated-32a7a6'>Posessed Portrait</a>
+
+## Post Workshop Resurces
+1. You can create a variety of programs using the simple examples from Day 2. Use those examples as building blocks to create different light programs. You can have different files in your Home/Pi directory and alternate which one you run.
+2. Remember, that to run a python program that controls your light, use this command in the terminal
+<code>sudo python3 FILE_NAME.py</code>
+Replace FILE_NAME.py with your own file name. When naming your files, avoid using spaces.
+3. Remember to turn off your Raspberry Pi when you connect or disconnect any wires to the pins of the Raspberry Pi.
+4. Remember to turn off the lights when you leave your house. Keep an eye on the lights power supply and make sure it doesn't overheat (if it starts getting too hot, turn it off).
+5. If you want to get audio from your Raspberry Pi, you will need to change configurations on the Raspberry Pi:
+  - In the /etc/modprobe.d/snd-blacklist.conf file, remove the <code>blacklist snd_bcm2835</code> line
+  - In the /boot/config.txt file, remove the # character from #dtparam=audio=on
+  - Making the above changes will allow you to play audio from your Raspberry Pi (but the lights will no longer work). You can always change the configuration back, if you want to run the lights.
